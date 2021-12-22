@@ -10,7 +10,7 @@ let userObj = {
     id: "",
     login: "",
     password: "",
-    isActive: false,
+    isActive: true,
 }
 
 // let keys = Object.keys(localStorage);
